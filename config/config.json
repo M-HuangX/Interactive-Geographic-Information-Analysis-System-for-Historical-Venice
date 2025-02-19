@@ -1,0 +1,11 @@
+{
+    "api_key": "sk-your-api-key-here",
+    "model": "claude-3-5-sonnet-latest",
+    "ui": {
+        "window_size": {
+            "width": 1200,
+            "height": 800
+        },
+        "split_ratio": [1, 3]
+    }
+}
