@@ -1,0 +1,10 @@
+geopandas==0.14.0
+fiona==1.9.5
+geopy==2.4.0
+shapely==2.0.3
+ipython==8.23.0
+pandas==2.2.1
+seaborn==0.13.2
+plotly==5.18.0
+scipy==1.13.0
+h3==4.1.0
