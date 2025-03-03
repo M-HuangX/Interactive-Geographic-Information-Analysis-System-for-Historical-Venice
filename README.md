@@ -5,6 +5,7 @@ An AI-powered geographic information analysis system designed for exploring and 
 ![Technical Approach](figures/Screenshot%202024-12-17%20154319-Technical_Approach_demo.png)
 
 ### 🎥 [Canva Presentation Link](https://www.canva.com/design/DAGZq4b5cYA/IcEpZaGWo4mC5cSCmz2gyw/view?utm_content=DAGZq4b5cYA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb224ef539c)
+### 📄 [EPFL Wiki Link](https://fdh.epfl.ch/index.php/LLM-generated_Visualization)
 
 ## 📋 Table of Contents
 - [Key Features](#-key-features)
