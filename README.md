@@ -2,7 +2,7 @@
 
 An AI-powered geographic information analysis system designed for exploring and visualizing historical Venetian data from the Venice Time Machine project. This system enables researchers to analyze complex historical geographic data through natural language interaction, generating sophisticated visualizations in real-time.
 
-![Presentation ppt](https://www.canva.com/design/DAGZq4b5cYA/IcEpZaGWo4mC5cSCmz2gyw/view?utm_content=DAGZq4b5cYA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb224ef539c)
+[Presentation Link](https://www.canva.com/design/DAGZq4b5cYA/IcEpZaGWo4mC5cSCmz2gyw/view?utm_content=DAGZq4b5cYA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb224ef539c)
 
 ![Technical Approach](figures/Screenshot%202024-12-17%20154319-Technical_Approach_demo.png)
 
